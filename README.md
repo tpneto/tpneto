@@ -1,5 +1,5 @@
 # Hi there👋
-My name is Thiago. I’m pursuing a DEC in Computer Science and have experience with React, Next.js, Firebase, and Microsoft SQL Server. With my technical and interpersonal skills, I enjoy building applications that prioritize user needs while ensuring the backend runs smoothly. I’m always excited to learn new things and take on challenges that push me to grow!
+My name is Thiago. I’m pursuing a DEC in Computer Science and have experience with Java, C#, Python, HTML, Firebase, and Microsoft SQL Server. With my technical and interpersonal skills, I enjoy building applications that prioritize user needs while ensuring the backend runs smoothly. I’m always excited to learn new things and take on challenges that push me to grow!
 
 # Skills:
 <div>
